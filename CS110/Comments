@@ -1,0 +1,10 @@
+"""
+Program: Travel Planner
+"""
+
+# display greetings
+print('Welcome to the vacation planner!')
+
+# gather user input
+destination = input('Where would you like to go? ')
+

@@ -1,0 +1,16 @@
+# email = input('What is your email address? ')
+# print(email.lower())
+# print(email)
+# email = email.lower()
+
+# book = input("What's the title of the book? ")
+# print(book.upper())
+# print(book.title())
+# print(book.capitalize())
+
+# print(f"The title is: {book.title()}")
+
+x = 5
+
+print(x)
+

@@ -1,0 +1,9 @@
+name = 'Bob' 
+age = 34
+print(name)
+
+age = 54
+[print(age)]
+
+name = 'John'
+print(name)
